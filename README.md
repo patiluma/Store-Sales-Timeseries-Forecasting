@@ -21,9 +21,6 @@ This project focuses on forecasting daily sales for retail stores using historic
 - **Extra Trees Regressor**  
 - **SARIMAX and ARIMA** for time series modeling  
 
-**Features:** `onpromotion`, `type`, `Oil_Price`, `weekday`  
-**Target:** `sales`
-
 ---
 
 ## Evaluation Metrics
